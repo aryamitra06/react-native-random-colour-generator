@@ -28,7 +28,7 @@ export default function App() {
           marginTop: 20,
           backgroundColor: color,
           height: 300,
-          width: "85%",
+          width: "80%",
           borderRadius: 30,
           display: "flex",
           alignItems: "center",
