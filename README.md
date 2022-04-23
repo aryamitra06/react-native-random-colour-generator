@@ -4,7 +4,7 @@ A cross platform mobile phone application for generating random rgb colours.
 - React Native
 - Cross Platform
 
-### Devloper 
+### Developer 
 Aryamitra Chaudhuri
 
 ### App
